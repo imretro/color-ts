@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "build:docs": "typedoc src/index.ts",
+    "build:docs": "typedoc --sort instance-first src/index.ts",
     "lint": "eslint src/*",
     "prepublishOnly": "npm run build",
     "test": "jest"
