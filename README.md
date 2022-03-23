@@ -1,7 +1,7 @@
 # @imretro/color
 
 [![CI](https://github.com/imretro/color-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/imretro/color-ts/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/imretro/color-ts/branch/master/graph/badge.svg?token=TxSTqGZcPq)](https://codecov.io/gh/imretro/color-ts)
+[![codecov](https://codecov.io/gh/imretro/color-ts/branch/main/graph/badge.svg?token=TxSTqGZcPq)](https://codecov.io/gh/imretro/color-ts)
 
 Color util library
 
