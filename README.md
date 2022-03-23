@@ -1,5 +1,6 @@
 # @imretro/color
 
+[![npm](https://img.shields.io/npm/v/@imretro/color)](https://www.npmjs.com/package/@imretro/color)
 [![CI](https://github.com/imretro/color-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/imretro/color-ts/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/imretro/color-ts/branch/main/graph/badge.svg?token=TxSTqGZcPq)](https://codecov.io/gh/imretro/color-ts)
 
