@@ -18,10 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/imretro/color-ts.git"
   },
-  "keywords": [
-    "io",
-    "bits"
-  ],
+  "keywords": ["color"],
   "author": "Spenser Black <spenserblack01@gmail.com>",
   "license": "MIT",
   "bugs": {
