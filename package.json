@@ -1,6 +1,6 @@
 {
   "name": "@imretro/color",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Color util library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/imretro/color-ts.git"
   },
-  "keywords": ["color"],
+  "keywords": [
+    "color"
+  ],
   "author": "Spenser Black <spenserblack01@gmail.com>",
   "license": "MIT",
   "bugs": {
