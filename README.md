@@ -8,6 +8,8 @@ Color util library
 
 This library provides some simple utilities for representing colors.
 
+## [Documentation](https://imretro.github.io/color-ts/)
+
 ## Example
 
 ```typescript
